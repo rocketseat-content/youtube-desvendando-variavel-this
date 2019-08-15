@@ -1,6 +1,6 @@
 // function.call(this, arg1, arg2)
 // call do inglês chamar
-// retornar o this do contexto que eu enviar.
+// retorna o this do contexto que eu enviar.
 
 this.name = "Camila";
 this.age = 25;
